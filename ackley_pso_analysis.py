@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 from pso import PSOOptimizer, GBestStrategy
 from Functions import AckleyFunction
 
+
 dimensions = 10
 bounds = (-30, 30)
 iterations = 1000
@@ -38,7 +39,7 @@ plt.title('PSO Runs on Ackley Function')
 plt.xlabel('Run')
 plt.ylabel('Best Value')
 plt.grid(True)
-plt.savefig('results/metrics std pso.png')
+plt.savefig('ec-groupassignment2-Evolver-Variian/results/metrics std pso.png')
 plt.show()
 
 # Saving the analysis
