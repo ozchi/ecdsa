@@ -43,7 +43,7 @@ plt.savefig('ec-groupassignment2-Evolver-Variian/results/metrics std pso.png')
 plt.show()
 
 # Saving the analysis
-with open('results/analysis std pso.txt', 'w') as f:
+with open('ec-groupassignment2-Evolver-Variian/results/analysis std pso.txt', 'w') as f:
     f.write("Analysis of PSO runs on Ackley Function:\n")
     f.write(f"Average best value: {np.mean(results)}\n")
     f.write(f"Standard deviation: {np.std(results)}\n")
