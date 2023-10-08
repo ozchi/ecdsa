@@ -1,0 +1,7 @@
+############# BEST RESULT ###############
+best hyperparameters: w=0.2 c1=2.5 c2=2.5 particles=30
+best value: 1.6683987524857002e-11
+############# ALL VALUES ###############
+w=0.2 c1=2.5 c2=2.5 particles=30
+mean=1.6683987524857002e-11
+

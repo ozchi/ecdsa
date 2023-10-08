@@ -1,0 +1,6 @@
+w_values = [0.2]
+c1_values = [2.5]
+c2_values = [2.5]
+num_particles_values = [30]
+num_runs = 1
+
